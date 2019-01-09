@@ -1,4 +1,4 @@
-pkg_origin=chintu9595
+pkg_origin=demo-sample
 pkg_name=webapp-proxy
 pkg_deps=(core/nginx)
 pkg_version="0.1.0"
